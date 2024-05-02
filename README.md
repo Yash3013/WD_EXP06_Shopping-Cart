@@ -1,4 +1,5 @@
 Dynamic Shopping Cart that updates in real time
+
 This project was generated with Angular CLI version 14.0.0.
 
 Development server
